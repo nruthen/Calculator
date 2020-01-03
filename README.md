@@ -1,10 +1,10 @@
-## Calculator Application
+# Calculator Application
 This program is a calculator application that performs standard mathematical operations and has graphing capabilities. 
 
-# Packages
+## Packages
 The application requires the python packages turtle (for graphing), math, and tkinter. 
 
-# Functions
+## Functions
 To add, subtract, multiply, or divide numbers, enter two values in the two entry boxes and then 
 press the button of the operation you would like to use. For the other buttons, enter one value 
 in the top entry window and click the button you want to use. The bottom buttons (Int, Poly, Trig, Abs, and Log) 
